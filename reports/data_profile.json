@@ -1,0 +1,20 @@
+{
+  "sales_rows_raw": 421570,
+  "sales_rows_after_validation": 421570,
+  "stores": 45,
+  "departments": 81,
+  "date_min": "2010-02-05",
+  "date_max": "2012-10-26",
+  "negative_sales_rows_preserved": 1285,
+  "duplicate_sales_grain_rows_removed": 0,
+  "markdown_missing_pct": {
+    "MarkDown1": 64.26,
+    "MarkDown2": 73.61,
+    "MarkDown3": 67.48,
+    "MarkDown4": 67.98,
+    "MarkDown5": 64.08
+  },
+  "feature_rows": 8190,
+  "store_metadata_rows": 45,
+  "sales_sum_of_weekly_observations": 6737218987.110001
+}
